@@ -92,4 +92,9 @@ https://exchange.xforce.ibmcloud.com/
 
 https://gmail-osint.activetk.jp/
 
+**Tool Analysis**  
+Common tools used by the attacker that has infiltrated networks: 
+
+https://jpcertcc.github.io/ToolAnalysisResultSheet/
+
 
