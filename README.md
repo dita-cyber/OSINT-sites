@@ -24,6 +24,10 @@ https://www.iplocation.net/
 
 https://www.ipvoid.com/
 
+**Email Analyzer**
+
+https://eml-analyzer.herokuapp.com/#/
+
 **Malware Bazaar**
 
 https://bazaar.abuse.ch/
